@@ -107,6 +107,7 @@ public class RockPaperScissor {
 				if(playAgain.equals("yes") || playAgain.equals("Yes") || playAgain.equals("no") || playAgain.equals("No")) {
 					System.out.println();
 					System.out.println("*****************************************************************************");
+					System.out.println("_____________________________________________________________________________");
 					System.out.println();
 					break;
 				}
